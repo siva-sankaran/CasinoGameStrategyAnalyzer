@@ -1,0 +1,2 @@
+# Casino Game Strategy Analyzer
+ This project is an exercise for the book Building Skills in Object-Oriented Design. At the end of the book/Exercise, reader would acquire skills on Object Oriented Design and Programming. Actual exercise is in java, but i am doing it in c#.net

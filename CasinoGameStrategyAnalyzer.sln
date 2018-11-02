@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyAnalyzerApp", "StrategyAnalyzerApp\StrategyAnalyzerApp.csproj", "{9A455DE4-3740-483D-BFFD-702CE11FAC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGame", "RouletteGame\RouletteGame.csproj", "{FC819B60-2E66-45DD-ABBA-34AC3D93D7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGameTest", "RouletteGameTest\RouletteGameTest.csproj", "{9EFA1B9D-1EB8-43F5-B062-2AADCA8C17FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A455DE4-3740-483D-BFFD-702CE11FAC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A455DE4-3740-483D-BFFD-702CE11FAC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A455DE4-3740-483D-BFFD-702CE11FAC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A455DE4-3740-483D-BFFD-702CE11FAC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC819B60-2E66-45DD-ABBA-34AC3D93D7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC819B60-2E66-45DD-ABBA-34AC3D93D7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC819B60-2E66-45DD-ABBA-34AC3D93D7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC819B60-2E66-45DD-ABBA-34AC3D93D7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFA1B9D-1EB8-43F5-B062-2AADCA8C17FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFA1B9D-1EB8-43F5-B062-2AADCA8C17FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFA1B9D-1EB8-43F5-B062-2AADCA8C17FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFA1B9D-1EB8-43F5-B062-2AADCA8C17FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
